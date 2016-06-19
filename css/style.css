@@ -5,7 +5,11 @@ body {
 }
 
 .middle {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+hr {
+  padding-bottom: 10px;
 }
 
 h4.feat {
@@ -14,9 +18,11 @@ h4.feat {
 }
 
 h3.feat {
-  background-color: #ffcd33;
-  padding: 10px;
-  text-align: left;
+  background-color: #000000;
+  padding: 12px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 25px;
 }
 
 p.main{
@@ -26,7 +32,6 @@ p.main{
 
 p.lead {
   padding-top: 10px;
-  padding-bottom: 10px;
   font-size: 14px;
   color: #000000;
 }
@@ -53,6 +58,11 @@ p.howto{
   padding-bottom: 20px;
   border-bottom: 1px solid #e5e5e5;
 }
+
+img {
+  padding-bottom: 15px;
+}
+
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
   margin-top: 0;
@@ -65,7 +75,7 @@ p.howto{
 }
 
 .row {
-  margin-bottom: 15px;
+  margin-bottom: 25px;
 }
 
 /* Custom page footer */
