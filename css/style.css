@@ -4,9 +4,14 @@ body {
   padding-bottom: 20px;
 }
 
+<<<<<<< HEAD
 .btn-success {
   background-color: #ffcc33;
   border-color: #ffcc33;
+=======
+.middle {
+  padding-bottom: 20px;
+>>>>>>> master
 }
 
 h4.feat {
@@ -15,8 +20,9 @@ h4.feat {
 }
 
 h3.feat {
-  background-color: #ffcc33;
-  padding: 5px;
+  background-color: #ffcd33;
+  padding: 10px;
+  text-align: left;
 }
 
 p.main{
@@ -65,7 +71,7 @@ p.howto{
 }
 
 .row {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 
 /* Custom page footer */
@@ -103,6 +109,8 @@ p.howto{
 .marketing p + h4 {
   margin-top: 28px;
 }
+
+
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
