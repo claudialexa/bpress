@@ -28,8 +28,16 @@ h3.feat {
 p.main{
   padding-top: 10px;
   font-size: 32px;
-    font-family: 'Montserrat', sans-serif;
-    padding-bottom: 10px;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+  text-align: left;
+}
+
+p.submain{
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+  text-align: left;
 }
 
 p.lead {
@@ -53,6 +61,7 @@ p.howto{
 .footer {
   padding-right: 15px;
   padding-left: 15px;
+  vertical-align: center;
 }
 
 /* Custom page header */
